@@ -1,7 +1,6 @@
 # gerador-de-senha
 olá, esse programa usou a biblioteca pysimplegui https://pypi.org/project/PySimpleGUI/ para fazer um gerador de senha.
-nessa parte do programa eu repeti muito código, tenho certeza que a um jeito melhor de fazer isso. Se souber me avise
-![image](https://user-images.githubusercontent.com/72421039/114329277-48077980-9b15-11eb-818a-74eba7e5ee13.png)
+
 
 o programa 
 
